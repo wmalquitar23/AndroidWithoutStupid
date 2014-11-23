@@ -16,3 +16,6 @@ instance to call them. Others require an instance initialized with the current a
 passed as constructor parameter.
 
 This software is released without copyright and is public-domain software.
+
+The JAR file along with Java source, class and doc files are available at
+http://www.moralvolcano.com
